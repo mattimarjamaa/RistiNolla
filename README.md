@@ -1,6 +1,6 @@
 Tic-tac-toe game with AI uses Visual Basic language.
 
-Tic Tac Toe is a one-player game. In this game, there is a board with 3 x 3 squares.
+Tic Tac Toe is a two-player game. In this game, there is a board with 3 x 3 squares.
 
 Player is 0 and the computer is X.
 
